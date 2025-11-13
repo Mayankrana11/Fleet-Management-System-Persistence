@@ -1,0 +1,11 @@
+Type,ID,Model,MaxSpeed,Efficiency,CurrentMileage,HasSail
+CargoShip,S1,SHIP1,40.00,0.00,20.00,true
+CargoShip,S2,SHIP2,40.00,4.00,0.00,false
+Car,C1,WAGONR,180.00,15.00,40000.00,false
+Truck,T1,BHARATBRIGADE,85.00,6.00,40000.00,false
+Bus,B1,VOLVO,70.00,10.00,40000.00,false
+Airplane,A1,BOING,800.00,5.00,40000.00,false
+Bus,B2,ASHOKLEYLAND,80.00,10.00,20000.00,false
+Airplane,A2,A320,950.00,5.00,20000.00,false
+CargoShip,S3,SHIP3,65.00,4.00,0.00,false
+Car,C2,LEXUS,320.00,15.00,20000.00,false

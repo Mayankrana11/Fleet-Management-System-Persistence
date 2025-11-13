@@ -1,0 +1,3 @@
+Type,ID,Model,MaxSpeed,Efficiency,CurrentMileage,HasSail
+Airplane,A3,AIRBUS,900.00,5.00,0.00,false
+Airplane,A4,ILYUSHIN,870.00,5.50,0.00,false
